@@ -20,7 +20,7 @@ const Data = ({ data }) => {
         <div className='skills'>
           {data.skills.map((skill, index) => <p key={index}>{skill}</p>)}
         </div>
-        <h3>Project</h3>
+        <h3>Projects</h3>
         <div className='practice'>
           {data.projects.map((item, index) =>
             <div key={index}>
