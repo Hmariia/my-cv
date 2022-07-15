@@ -1,5 +1,5 @@
 export const data = {
-    name: "Mariiia Heiskanen",
+    name: "Mariia Heiskanen",
     email: "marykrokis@gmail.com",
     phone: "+358 403678203",
     link: "https://github.com/Hmariia",
