@@ -15,7 +15,8 @@ export const data = {
         "TypeScript",
         "C++",
         "Cypress",
-        "UI design"
+        "UI design",
+        "Git"
     ],
     projects: [
         {
